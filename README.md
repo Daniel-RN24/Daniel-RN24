@@ -105,11 +105,11 @@ Me interesa el detalle: desde la arquitectura del backend hasta la última anima
 
 <div align="center">
 
-![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielRN-SOFT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CDD9E5)
+![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daniel-RN24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CDD9E5)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRN-SOFT&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CDD9E5)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-RN24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CDD9E5)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=DanielRN-SOFT&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8)
+![GitHub Streak](https://streak-stats.demolab.com?user=Daniel-RN24&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8)
 
 </div>
 
