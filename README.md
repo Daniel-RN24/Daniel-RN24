@@ -4,8 +4,8 @@
 
 <a href="https://daniel-ramirez-navarro.netlify.app/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Schibsted+Grotesk&weight=700&size=26&duration=3200&pause=1400&color=8EA2FF&center=true&vCenter=true&width=640&height=48&lines=Convierto+hojas+de+c%C3%A1lculo+en+aplicaciones.;Laravel+%C2%B7+React+%C2%B7+Node.js;Del+modelo+de+datos+a+la+interfaz.;Subastas%2C+mapas+y+turnos+en+tiempo+real." />
-    <img src="https://readme-typing-svg.demolab.com?font=Schibsted+Grotesk&weight=700&size=26&duration=3200&pause=1400&color=3355FF&center=true&vCenter=true&width=640&height=48&lines=Convierto+hojas+de+c%C3%A1lculo+en+aplicaciones.;Laravel+%C2%B7+React+%C2%B7+Node.js;Del+modelo+de+datos+a+la+interfaz.;Subastas%2C+mapas+y+turnos+en+tiempo+real." alt="Convierto hojas de cálculo en aplicaciones." />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Schibsted+Grotesk&weight=700&size=26&duration=3200&pause=1400&color=8EA2FF&center=true&vCenter=true&width=640&height=48&lines=Convierto+hojas+de+c%C3%A1lculo+en+aplicaciones.;Laravel+%C2%B7+React+%C2%B7+Node.js;Del+modelo+de+datos+a+la+interfaz.;Ventas%2C+mapas+y+turnos+en+tiempo+real." />
+    <img src="https://readme-typing-svg.demolab.com?font=Schibsted+Grotesk&weight=700&size=26&duration=3200&pause=1400&color=3355FF&center=true&vCenter=true&width=640&height=48&lines=Convierto+hojas+de+c%C3%A1lculo+en+aplicaciones.;Laravel+%C2%B7+React+%C2%B7+Node.js;Del+modelo+de+datos+a+la+interfaz.;Ventas%2C+mapas+y+turnos+en+tiempo+real." alt="Convierto hojas de cálculo en aplicaciones." />
   </picture>
 </a>
 
@@ -26,7 +26,7 @@ Es lo que hago hoy en **World Travel Assist**: reúno requerimientos con cada á
 │ ID  │ NOMBRE   │ PESO   │ OBS      │       │ Inventario del hato  48 animales  │
 ├─────┼──────────┼────────┼──────────┤       ├───────────────────────────────────┤
 │ 14  │ Lucero   │ 420kg  │          │       │ Lucero    014  420 kg  Activo     │
-│ 015 │ la mona  │ 415 KG │ OJO!!    │  ──>  │ La Mona   015  415 kg  En subasta │
+│ 015 │ la mona  │ 415 KG │ OJO!!    │  ──>  │ La Mona   015  415 kg  En venta   │
 │ 16  │ Canela   │ 388    │ ???      │       │ Canela    016  388 kg  Activo     │
 │ 017 │ Tormenta │ #¡REF! │ vendida? │       │ Tormenta  017  398 kg  Vendida    │
 └─────┴──────────┴────────┴──────────┘       └───────────────────────────────────┘
@@ -45,7 +45,7 @@ Aplicaciones construidas de punta a punta, del modelo de datos a la interfaz.
 <a href="https://github.com/Daniel-RN24/HatoManager"><img src="hatomanager.webp" alt="Captura de HatoManager, aplicación de gestión ganadera" width="100%" /></a>
 
 - Inventario del hato con historial sanitario y seguimiento de peso
-- Subastas en línea con pujas en tiempo real
+- Compra y venta directa de ganado en línea
 - Pagos integrados con Wompi
 
 ![Laravel 12](https://img.shields.io/badge/Laravel_12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -101,7 +101,7 @@ Aplicaciones construidas de punta a punta, del modelo de datos a la interfaz.
 
 Vengo del diseño multimedia y terminé enamorado del backend. Hoy construyo aplicaciones completas con Laravel o Express y React, desde las migraciones hasta la última interacción en pantalla.
 
-Me gusta resolver problemas reales de punta a punta: automatizo procesos que antes vivían en hojas de cálculo y he construido desde subastas en tiempo real hasta mapas interactivos.
+Me gusta resolver problemas reales de punta a punta: automatizo procesos que antes vivían en hojas de cálculo y he construido desde la compraventa de ganado en línea hasta mapas interactivos.
 
 ### Experiencia
 
@@ -131,7 +131,7 @@ Lo que uso a diario y dónde lo he aplicado.
 | **Laravel** | Mi herramienta principal en el backend. Desarrollo con la arquitectura MVC clásica: modelos, controladores y vistas. | HatoManager, TurnosPRO |
 | **React** | Interfaces sobre Laravel con Inertia.js o como frontend independiente con Vite. | HatoManager, MercadoBarrio |
 | **Node.js** | APIs con Express y Prisma cuando el proyecto lo pide. | MercadoBarrio |
-| **WebSockets** | Funciones en tiempo real: pujas en vivo y disponibilidad de turnos al instante. | HatoManager, TurnosPRO |
+| **WebSockets** | Funciones en tiempo real: compraventa de ganado en línea y disponibilidad de turnos al instante. | HatoManager, TurnosPRO |
 | **MySQL** | Bases de datos relacionales, con PDO y mysqli desde PHP. | BibliotecaSena, EduBingo |
 
 ### También trabajo con
