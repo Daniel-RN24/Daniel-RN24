@@ -1,156 +1,83 @@
-<div align="center">
 
-```
-██████╗  █████╗ ███╗   ██╗██╗███████╗██╗
-██╔══██╗██╔══██╗████╗  ██║██║██╔════╝██║
-██║  ██║███████║██╔██╗ ██║██║█████╗  ██║
-██║  ██║██╔══██║██║╚██╗██║██║██╔══╝  ██║
-██████╔╝██║  ██║██║ ╚████║██║███████╗███████╗
-╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚══════╝╚══════╝
-```
+**Daniel Ramírez Navarro, desarrollador full stack**
 
-# Daniel Felipe Ramírez Navarro
+# Convierto hojas de cálculo en aplicaciones.
 
-### Full Stack Developer · JavaScript Ecosystem · Digital Solutions
+Es lo que hago hoy en World Travel Assist: reúno requerimientos con cada área y reemplazo procesos manuales por interfaces que ahorran tiempo. Trabajo con Laravel, React y Node.js.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+**[Ver mi portafolio](https://daniel-ramirez-navarro.netlify.app/)** · [LinkedIn](https://www.linkedin.com/in/daniel-ram%C3%ADrez-navarro-658397376/) · [Correo](mailto:daniel20ramirez06@gmail.com)
 
-</div>
+[![Inicio de mi portafolio: el titular "Convierto hojas de cálculo en aplicaciones." junto a un comparador entre una hoja de cálculo desordenada y la misma información en una aplicación](captura.webp)](https://daniel-ramirez-navarro.netlify.app/)
 
----
+| Ubicación | Disponibilidad | Modalidad | Idiomas |
+| --- | --- | --- | --- |
+| Colombia | Empleo de tiempo completo o freelance | Presencial o remoto | Español e inglés (C1) |
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> Sobre mí
+## Proyectos
 
-Soy desarrollador **Full Stack** con enfoque en el ecosistema **JavaScript**, construyendo interfaces rápidas y experiencias de usuario que realmente importan.
+Aplicaciones construidas de punta a punta, del modelo de datos a la interfaz.
 
-Me interesa el detalle: desde la arquitectura del backend hasta la última animación en pantalla. Busco que cada proyecto sea **funcional, limpio y agradable de usar**.
+### [HatoManager](https://github.com/Daniel-RN24/HatoManager): gestión ganadera integral
 
-- Actualmente trabajando en **World Travel Assist** como **Desarrollador Junior Full Stack**
-- Estudiando **Tecnología en Análisis y Desarrollo de Software** en el SENA
-- Nivel de inglés **C1** — Marco Europeo de Referencia
-- Colombia
+- Inventario del hato con historial sanitario y seguimiento de peso
+- Subastas en línea con pujas en tiempo real
+- Pagos integrados con Wompi
 
----
+**Stack:** Laravel 12 · Inertia.js · React 18 · WebSockets · Wompi
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20"/> Stack Tecnológico
+### Otros proyectos
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="16"/> Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+| Proyecto | Qué hace | Stack |
+| --- | --- | --- |
+| [MercadoBarrio](https://github.com/Daniel-RN24/MercadoBarrio_Frontend) | Comercio hiperlocal con mapa en vivo: catálogo, inventario y ventas para los comerciantes, y un mapa interactivo en tiempo real para descubrir tiendas cercanas. | React, Vite, Node.js, Prisma |
+| [TurnosPRO](https://github.com/plapers2/turnosPRO) | Turnos y citas con disponibilidad en vivo: asignación de horarios y control de disponibilidad en tiempo real, con un panel de gestión para el personal. | Laravel 12, Tailwind CSS, Vite, WebSockets |
+| [BibliotecaSena](https://github.com/Daniel-RN24/biblioteca_mysqli) | Catálogo, reservas y préstamos: administración del catálogo de libros, y reservas y préstamos para estudiantes y personal. | PHP con mysqli, HTML, CSS, JavaScript, MySQL |
+| [EduBingo](https://github.com/0mega17/proyectoVideojuego) | Bingo literario para el aula: un juego basado en obras literarias, pensado para fomentar la lectura en clase. | PHP con PDO, HTML, CSS, JavaScript, MySQL |
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="16"/> Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+## Trayectoria
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="16"/> Base de datos & ORM
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+Vengo del diseño multimedia y terminé enamorado del backend. Hoy construyo aplicaciones completas con Laravel o Express y React, desde las migraciones hasta la última interacción en pantalla.
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="16"/> Herramientas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+Me gusta resolver problemas reales de punta a punta: automatizo procesos que antes vivían en hojas de cálculo y he construido desde subastas en tiempo real hasta mapas interactivos.
 
----
+### Experiencia
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/> Proyectos Destacados
+**Desarrollador Junior Full Stack** · World Travel Assist · 2026–hoy
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="16"/> APV — Gestión de Citas Veterinarias
-> Aplicación para administrar citas y pacientes en clínicas veterinarias.
+Etapa productiva del SENA: reúno requerimientos con los distintos departamentos para automatizar procesos que hoy se gestionan en hojas de cálculo, con interfaces que reducen el tiempo de sus tareas cotidianas.
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white)
+### Educación
 
----
+| Período | Título | Institución |
+| --- | --- | --- |
+| 2025–2027 (en curso) | Tecnólogo en Análisis y Desarrollo de Software | SENA |
+| 2025 | Inglés nivel C1 (MCER) | Macarthur English Academy |
+| 2025 | Técnico en Sistemas y Comercio Digital | C.E.I. El Mariscal |
+| 2023 | Tecnólogo en Diseño e Integración Multimedia | SENA |
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="16"/> BibliotecaSena — Gestión de Libros y Préstamos
-> Sistema de control de reservas y préstamos de libros para instituciones educativas.
+## Tecnologías
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+Lo que uso a diario y dónde lo he aplicado.
 
----
+| Tecnología | Cómo la uso | Proyectos |
+| --- | --- | --- |
+| **Laravel** | Mi herramienta principal en el backend. Desarrollo con la arquitectura MVC clásica: modelos, controladores y vistas. | HatoManager, TurnosPRO |
+| **React** | Interfaces sobre Laravel con Inertia.js o como frontend independiente con Vite. | HatoManager, MercadoBarrio |
+| **Node.js** | APIs con Express y Prisma cuando el proyecto lo pide. | MercadoBarrio |
+| **WebSockets** | Funciones en tiempo real: pujas en vivo y disponibilidad de turnos al instante. | HatoManager, TurnosPRO |
+| **MySQL** | Bases de datos relacionales, con PDO y mysqli desde PHP. | BibliotecaSena, EduBingo |
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="16"/> EduBingo — Juego de Bingo Literario
-> Juego interactivo de bingo con temática educativa y literaria.
+**También trabajo con:**
 
-![PHP](https://img.shields.io/badge/PHP_PDO-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- **Frontend:** TypeScript, JavaScript, Inertia.js, Tailwind CSS, HTML, CSS
+- **Backend y datos:** PHP, Express, Prisma, PostgreSQL
+- **Integraciones:** Wompi (pagos)
+- **Herramientas:** Git, GitHub, Docker, Postman, Vite, Opencode, Claude Code
 
----
+## Contacto
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/> GitHub Stats
+**¿Tienes una vacante o un proceso que automatizar?** Escríbeme y cuéntame de qué se trata; te respondo a la brevedad.
 
-<div align="center">
-
-![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daniel-RN24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CDD9E5)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-RN24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CDD9E5)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Daniel-RN24&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8)
-
-</div>
-
----
-
-## 🎓 Formación
-
-| Año | Título | Institución |
-|-----|--------|-------------|
-| 2023 | Bachiller Académico | I.E. Juan XXIII |
-| 2023 | Tec. Diseño e Integración Multimedia | SENA |
-| 2025 | Téc. Sistemas y Comercio Digital | C.E.I. El Mariscal |
-| 2025 | Nivel C1 Inglés | Macarthur English Academy |
-| 2027 *(en curso)* | Tecn. Análisis y Desarrollo de Software | SENA |
-
----
-
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> Experiencia
-
-**Desarrollador Junior Full Stack** · *World Travel Assist*
-`Julio 2026 – Actualidad`
-
----
-
-## ✉️ Contacto
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-devdfrn.netlify.app-38BDF8?style=for-the-badge&logo=netlify&logoColor=white)](https://devdfrn.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Ramírez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-ram%C3%ADrez-navarro-658397376/)
-[![Email](https://img.shields.io/badge/Email-daniel20ramirez06@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel20ramirez06@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-DanielRN--SOFT-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DanielRN-SOFT)
-
-</div>
-
----
-
-<div align="center">
-
-*"Transformo ideas en experiencias digitales excepcionales usando tecnologías modernas y código limpio."*
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DanielRN-SOFT.DanielRN-SOFT)
-
-</div>
+- Correo: [daniel20ramirez06@gmail.com](mailto:daniel20ramirez06@gmail.com)
+- LinkedIn: [Daniel Ramírez Navarro](https://www.linkedin.com/in/daniel-ram%C3%ADrez-navarro-658397376/)
+- Portafolio: [daniel-ramirez-navarro.netlify.app](https://daniel-ramirez-navarro.netlify.app/)
